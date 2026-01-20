@@ -18,6 +18,6 @@ Utilizing **GSAP (GreenSock) & ScrollTrigger**, the UI elements are not merely s
 
 
 ## 🔗 Live Experience
-**View the Deployment:** [Link to your hosted site]()
+**View the Deployment:** [Link to your hosted site]( https://priyanshjain543.github.io/sidcup-family-golf-TASK-6/)
 
 ---
